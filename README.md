@@ -20,5 +20,5 @@ This repository contains the coursework for CSPB 2400. It includes various labs 
 
 ## Author
 
-[Your Name]
+Ronald Durham
 
