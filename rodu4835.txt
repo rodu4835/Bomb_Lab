@@ -1,0 +1,7 @@
+Chance favors the prepared mind.
+1 2 4 7 11 16
+1 -1438
+3 10 DrEvil
+5 115
+3 6 5 1 2 4
+72
